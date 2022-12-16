@@ -27,6 +27,5 @@ function GetRoomNameInfo() {
 }
 
 function LeaveRoom() {
-    // 메타버스 안에서 나가기 버튼 누름.
-    // 페이지 이동 필요
+    window.history.back();
 }
