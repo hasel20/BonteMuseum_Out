@@ -29,3 +29,28 @@ function GetRoomNameInfo() {
 function LeaveRoom() {
     window.history.back();
 }
+
+function JoinG1() {
+    var roomURL = "";
+    location.href = roomURL;
+}
+
+function JoinG2() {
+    var roomURL = "";
+    location.href = roomURL;
+}
+
+function JoinG3() {
+    var roomURL = "";
+    location.href = roomURL;
+}
+
+function JoinG4() {
+    var roomURL = "";
+    location.href = roomURL;
+}
+
+function JoinG5() {
+    var roomURL = "";
+    location.href = roomURL;
+}
